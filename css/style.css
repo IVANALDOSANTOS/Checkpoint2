@@ -47,7 +47,7 @@ h1 {
     background-position: center;
     background-repeat: no-repeat;
     border-radius: 10px;
-    background-image: url("/img/twdbr-logo1.png");
+    background-image: url("./img/twdbr-logo1.png");
 }
 .navbar {
     display: flex;
@@ -74,7 +74,7 @@ h1 {
     font-weight: bold;
 }
 .banner {
-    background-image: url("/img/Top_10_Os_Melhores_Personagens_de_The_Walking_Dead_1.jpg");
+    background-image: url("./img/Top_10_Os_Melhores_Personagens_de_The_Walking_Dead_1.jpg");
     width: 100%;
     height: 100vh;
     background-size: cover;
@@ -150,7 +150,7 @@ section.secao {
     width: 550px;
     height: 770px;
     border-radius: 30px;
-    background-image: url("/img/fotocard.png");
+    background-image: url("./img/fotocard.png");
     transition: 0.5s;
 }
 .card:hover {
@@ -177,42 +177,42 @@ section.secao {
     transform: scale(1.02);
 }
 .card-rick {
-    background-image: url("/img/rickf.png");
+    background-image: url("./img/rickf.png");
     width: 100%;
     height: 320px;
     border-radius: 30px 30px 10px 10px;
     box-shadow: 0 5px 8px 0 rgba(30, 69, 119,0.57);
 }
 .card-negan {
-    background-image: url("/img/neganf.png") ;
+    background-image: url("./img/neganf.png") ;
     width: 100%;
     height: 320px;
     border-radius: 30px 30px 10px 10px;
     box-shadow: 0 5px 8px 0 rgba(30, 69, 119,0.57);
 }
 .card-daryl {
-    background-image: url("/img/darylf.png");
+    background-image: url("./img/darylf.png");
     width: 100%;
     height: 320px;
     border-radius: 30px 30px 10px 10px;
     box-shadow: 0 5px 8px 0 rgba(30, 69, 119,0.57);
 }
 .card-michonne {
-    background-image: url("/img/michonnef.png");
+    background-image: url("./img/michonnef.png");
     width: 100%;
     height: 320px;
     border-radius: 30px 30px 10px 10px;
     box-shadow: 0 5px 8px 0 rgba(30, 69, 119,0.57);
 }
 .card-carol {
-    background-image: url("/img/Carolf.png");
+    background-image: url("./img/Carolf.png");
     width: 100%;
     height: 320px;
     border-radius: 30px 30px 10px 10px;
     box-shadow: 0 5px 8px 0 rgba(30, 69, 119,0.57);
 }
 .card-maggie {
-    background-image: url("/img/maggief.png");
+    background-image: url("./img/maggief.png");
     width: 100%;
     height: 320px;
     border-radius: 30px 30px 10px 10px;
@@ -365,7 +365,7 @@ footer {
 
 /* Estilização página de detalhes */
 .banner1 {
-    background-image: url("/img/TWDdetalhes.png");
+    background-image: url("./img/TWDdetalhes.png");
     width: 100%;
     height: 100vh;
     background-size: cover;
