@@ -2,7 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;500;700&family=Roboto:wght@400;700&display=swap');
 @import url('http://fonts.cdnfonts.com/css/cf-night-of-terror-personal');
-/* Peguei a fonte no CDNFONTS também */
+/* Peguei a fonte no CDNFONTS também, porém não carrega no gitpages */
 * {
     margin: 0;
     font-family: 'roboto';
